@@ -1,12 +1,12 @@
 # Exercícios de Pandas 📊
 
-_Este conjunto de exercícios é projetado para consolidar o conhecimento das funcionalidades principais do Pandas, uma biblioteca essencial para análise de dados em Python. Os exercícios abordam desde operações básicas com dados até manipulações avançadas de estruturas, visando preparar você para análise de dados estruturados._
+_Aqui vai um conjunto de exercícios voltado para praticar as funcionalidades essenciais do Pandas, uma biblioteca fundamental para análise e manipulação de dados em Python. Esses exercícios exploram desde operações básicas até manipulações avançadas de estruturas de dados, ajudando a entender como o Pandas facilita o trabalho com dados tabulares e estruturados._
 
-**Conteúdos abordados:**
+**O que você verá:**
 
-- Criação de DataFrames e Series: Construção de tabelas com dados organizados e colunas rotuladas para fácil manipulação.
-- Seleção e indexação de dados: Extração de linhas, colunas e subconjuntos específicos de um DataFrame para análise.
-- Filtragem de dados: Aplicação de condições para visualizar apenas dados que atendem a critérios específicos.
-- Operações de agregação e estatísticas: Cálculo de somas, médias e outras métricas diretamente em colunas e linhas.
-- Limpeza e transformação de dados: Ajuste de valores, preenchimento de dados ausentes e reorganização de informações.
-- Ordenação e classificação: Organização de dados com base em colunas específicas, tornando a análise mais intuitiva e eficiente.
+- Criação de DataFrames e Series: Como construir tabelas de dados com linhas e colunas rotuladas, prontas para análise.
+- Seleção e indexação: Técnicas para extrair partes específicas do DataFrame, sejam linhas, colunas ou subconjuntos de dados.
+- Filtragem de dados: Aplicação de condições para visualizar dados que atendam a certos critérios, permitindo um olhar focado em pontos de interesse.
+- Agregação e estatísticas: Uso direto de funções como soma, média, contagem e outras para explorar o conjunto de dados.
+- Limpeza e transformação: Ajustes essenciais, como preenchimento de dados ausentes e modificação de valores para deixar o DataFrame mais consistente e confiável.
+- Ordenação e classificação: Ordenação de informações para facilitar a interpretação e a apresentação de dados.
