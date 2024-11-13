@@ -40,8 +40,8 @@ print(linha_indice_2)
 print()
 
 # filtrando um produto baseado em uma condicao "produtos com quantidade maior que 20"
-quantidade_maior_que_20 = estoque[estoque['Quantidade'] > 20]
-print(quantidade_maior_que_20)
+qtd_maior_que_20 = estoque[estoque['Quantidade'] > 20]
+print(qtd_maior_que_20)
 
 print()
 
