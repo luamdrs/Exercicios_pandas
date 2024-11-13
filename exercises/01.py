@@ -1,4 +1,4 @@
-# Criando uma Series chamada temp com temperaturas de cada dia da semana.
+# Criando uma série
 
 import pandas as pd
 
