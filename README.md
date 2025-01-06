@@ -10,3 +10,9 @@ _Aqui vai um conjunto de exercícios voltado para praticar as funcionalidades es
 - Agregação e estatísticas: Uso direto de funções como soma, média, contagem e outras para explorar o conjunto de dados.
 - Limpeza e transformação: Ajustes essenciais, como preenchimento de dados ausentes e modificação de valores para deixar o DataFrame mais consistente e confiável.
 - Ordenação e classificação: Ordenação de informações para facilitar a interpretação e a apresentação de dados.
+
+#
+
+_Esta lista de exercícios foi desenvolvida com o objetivo de praticar e fixar conceitos sobre a lib Pandas._
+  
+_Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado._ 🚀💫
